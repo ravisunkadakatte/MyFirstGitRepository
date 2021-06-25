@@ -2,7 +2,7 @@
 - 👀 I’m interested in building innovative localization solutions using AI/ML & data science.  
 - 🌱 I’m currently learning Python, Django, VUE.js, React.js
 - 💞️ I am looking to attract talented techies with multiple skills accross various tech-stack.
-- 📫 ravips@aarunitechsol.com 
+- 📫 ravi.ps@aarunitechsol.com 
 
 <!---
 ravisunkadakatte/ravisunkadakatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
